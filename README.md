@@ -1,5 +1,5 @@
 # WebsiteCrawler
-Get email, Phone number, social media handles and a brief summary of on page text for home&about pages of a list of websites.
+Visit a website's home page, about page, contact page and Get email, Phone number, social media handles and a brief summary of on page text for home&about pages from a list of websites.
 
 1. Install python3 and required modules.
 2. Provide a list of websites to crawl.
